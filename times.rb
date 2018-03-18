@@ -1,7 +1,5 @@
 def using_times
-	#your code here
+	7.times do
+    puts "I'm just going to loop 7 times"
+  end
 end
-
-
-
-
